@@ -8,4 +8,4 @@ This is me practicing and playing a in Python a little. This project is a tik ta
 * [Portfolio web](https://sites.google.com/view/juliandavidcandela/about-me)
   
 ## See the code
-[Link of the code](putawetside)
+[Link of the code]( https://jiandavid09.github.io/Portfolio-tiktaktok/)
