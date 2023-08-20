@@ -1,6 +1,5 @@
 # **Tic-tac-toe game**
 ## Description
-
 This is me practicing and playing a in Python a little. This project is a tic-tac-toe game coded using the tkinter library from Python.
 
 ## Author
