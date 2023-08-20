@@ -7,5 +7,5 @@ This is me practicing and playing a in Python a little. This project is a tik ta
 * [LinkedIn](https://sites.google.com/view/juliandavidcandela/about-me)
 * [Personal website](https://sites.google.com/view/juliandavidcandela/about-me)
   
-## See
--[Link of the code](putawetside)
+## See the code
+[Link of the code](putawetside)
